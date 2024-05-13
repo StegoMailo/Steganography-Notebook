@@ -1,2 +1,3 @@
 # Steganography-Notebook
-Steganography notebook that contains the basis of the steganography work
+
+This is the notebook that contains the basis of how the steganography that was used in this project was formed and used.
